@@ -10,12 +10,15 @@ p {
 
 .steps-list {
     padding: 20px;
+    padding-left: 40px;
     padding-top: 0px;
     padding-inline-end: 500px;
 }
 
 .steps {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
