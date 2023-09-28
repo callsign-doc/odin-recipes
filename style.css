@@ -8,6 +8,14 @@ p {
     font-family: 'Times New Roman', Times, serif;
 }
 
-.steps {
-    background-color: cadetblue;
+.steps-list {
+    padding: 20px;
+    padding-top: 0px;
+    padding-inline-end: 500px;
 }
+
+.steps {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
