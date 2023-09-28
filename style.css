@@ -26,3 +26,15 @@ p {
     text-justify: inter-word;
 }
 
+.list {
+    display: block;
+}
+
+.mainpage {
+    display: inline-flex;
+}
+
+#mainpage-img {
+    margin-left: 400px;
+}
+
